@@ -19,7 +19,34 @@ SO THAT my website can handle large amounts of unstructured data
 ```
 
 ## Walkthroughs
-![Walkthroughs]()
+![Walkthrough](./public/img/Video_1_USERS_POST_PUT_DELETE.gif)
+
+* POST route for creating a user 
+* PUT route for updating a user 
+* DELETE route to delete users
+
+![Walkthrough](./public/img/Video_2_THOUGHTS_POST_PUT_DELETE.gif)
+
+* POST route for creating a thought
+* PUT route for updating a thought
+* DELETE route to delete a thought 
+
+![Walkthrough](./public/img/Video_3_USERS_THOUGHTS_GET.gif)
+
+* GET route to return all users
+* GET route to return all thoughts
+* GET route to return a single user
+* GET route to return a single thought
+
+![Walkthrough](./public/img/Video_4_REACTIONS_POST_DELETE)
+
+* Post route to create a reaction
+* Delete route to delete a reaction 
+
+![Walkthrough](./public/img/Video_5_FRIENDS_POST_DELETE.gif)
+
+* Post route to create friends
+* Delete route to delete friends 
 
 ## Built With
 * Express JS
