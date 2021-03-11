@@ -38,7 +38,7 @@ SO THAT my website can handle large amounts of unstructured data
 * GET route to return a single user
 * GET route to return a single thought
 
-![Walkthrough](./public/img/Video_4_REACTIONS_POST_DELETE)
+![Walkthrough](./public/img/Video_4_REACTIONS_POST_DELETE.gif)
 
 * Post route to create a reaction
 * Delete route to delete a reaction 
