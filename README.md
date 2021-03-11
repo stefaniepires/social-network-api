@@ -55,7 +55,7 @@ SO THAT my website can handle large amounts of unstructured data
 * Moment.js
 
 ## Contributors
- Stefanie Pires
+ Stefanie (Pires) Tinsley
 
 ## Questions
 If you have any additional questions please reach out through email or GitHub.
