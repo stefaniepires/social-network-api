@@ -3,8 +3,7 @@
 ## Table of Contents
 * [Description](#description)
 * [User Story](#user-story)
-* [Usage](#usage)
-* [Website](#website)
+* [Walkthroughs](#walkthroughs)
 * [Built With](#built-with)
 * [Contributors](#contributors)
 * [Questions](#questions)
@@ -19,7 +18,7 @@ I WANT an API for my social network that uses a NoSQL database
 SO THAT my website can handle large amounts of unstructured data
 ```
 
-## Usage
+## Walkthroughs
 ![Walkthroughs]()
 
 ## Built With
@@ -29,7 +28,7 @@ SO THAT my website can handle large amounts of unstructured data
 * Moment.js
 
 ## Contributors
-* Stefanie Pires
+ Stefanie Pires
 
 ## Questions
 If you have any additional questions please reach out through email or GitHub.
