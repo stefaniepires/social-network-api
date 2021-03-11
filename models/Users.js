@@ -14,10 +14,10 @@ const UsersSchema = new Schema(
           unique: true,
           match: [/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/]
       },
-      thoughts: [{
+      /*thoughts: [{
           type: Schema.Types.ObjectId,
           ref: 'Thoughts'
-      }],
+      }],*/
       friends: [{
           type: Schema.Types.ObjectId,
           ref: 'Users'
@@ -32,10 +32,10 @@ const UsersSchema = new Schema(
   }
 );
 
-//the below will get the total count of friends that the user has 
+/*// the below will get the total count of friends that the user has 
 UsersSchema.virtual('friendCount').get(function() {
   return this.friends.length;
-});
+});*/
 
 const Users = model('Users', UsersSchema);
 
